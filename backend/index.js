@@ -38,6 +38,7 @@ app.use(
       "http://localhost:5173",
       "https://quickcode-ng.netlify.app",
       "https://quickkcode.vercel.app",
+      "https://quickcode-frontend.onrender.com",
     ],
     credentials: true,
   }),
